@@ -1,0 +1,19 @@
+{
+    "philip": {
+        "password": "1234",
+        "HP": 100,
+        "xy": [
+            0,
+            0
+        ],
+        "inventory": {},
+        "wardrobe": {
+            "Head": "",
+            "Shoulder": "",
+            "Core": "",
+            "Greaves": "",
+            "Boots": "",
+            "Weapon": ""
+        }
+    }
+}
